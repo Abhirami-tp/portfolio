@@ -1,0 +1,14 @@
+day 1:5/2/25
+
+study basic html tags
+basics of css
+
+day 1:6/2/25
+learn to implement these tags  and learn styling
+
+
+day 1:7/2/25
+downloaded and created git account
+learn how to create a repository
+how to commit a change into our repository
+
